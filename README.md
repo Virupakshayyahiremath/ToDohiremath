@@ -30,7 +30,7 @@ allprojects {
 ```
 
 Add the dependency:
-```Groovy
+```Groovyg
 dependencies {
 	compile 'com.github.yalantis:todolist:v1.0.1'
 }
